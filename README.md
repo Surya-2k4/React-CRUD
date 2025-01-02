@@ -33,8 +33,8 @@ This will start the application at http://localhost:3000 (default port).
 
 **Technologies:**
 
--- React Vite
--- Node.js
+- React Vite
+- Node.js
 
 **Contribution:**
 
