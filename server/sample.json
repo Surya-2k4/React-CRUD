@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Surya", "age": 22, "city": "Chennai" },
+    { "id": 2, "name": "Karthik", "age": 24, "city": "Coimbatore" },
+    { "id": 3, "name": "Priya", "age": 21, "city": "Madurai" },
+    { "id": 4, "name": "Arun", "age": 23, "city": "Tiruchirappalli" },
+    { "id": 5, "name": "Lakshmi", "age": 25, "city": "Salem" },
+    { "id": 6, "name": "Vignesh", "age": 22, "city": "Erode" },
+    { "id": 7, "name": "Divya", "age": 24, "city": "Tirunelveli" },
+    { "id": 8, "name": "Ramesh", "age": 26, "city": "Vellore" },
+    { "id": 9, "name": "Kavya", "age": 23, "city": "Thoothukudi" },
+    { "id": 10, "name": "Mohan", "age": 22, "city": "Thanjavur" }
+  ]
+  
