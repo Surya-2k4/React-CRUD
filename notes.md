@@ -19,15 +19,14 @@ we can also use nodeman for seeing the op (or) open brow -> http://localhost:800
 --
 server side is over, now move on to client side
 -- 
-
 create react project -> create  vite@latest client
 
 install required packages for rect -> npm install
 
-1for using api install -> npm i axios
+1 for using api install -> npm i axios
 
 for run client side -> npm run dev 
 
-
 want to see on 28.00 minutes
+
 finished Read operation.
