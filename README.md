@@ -130,18 +130,23 @@ React-CRUD/
 
 ### **Home Page**
 
+![Home Page](./images/home.png)
 
+### **Record Searching Page**
 
-### **Add Record Modal**
+![Home Page](./images/search.png)
 
-Form for adding a new student.
+### **Record Inserting Page**
 
+![Home Page](./images/add.png)
 
+### **Record Updating Page**
 
-### **Update Record Modal**
+![Home Page](./images/edit.png)
 
-Form for editing a student's details.
+### **Record Deleting Page**
 
+![Home Page](./images/delete.png)
 
 
 ---
